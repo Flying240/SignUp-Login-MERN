@@ -107,3 +107,29 @@ show /user page                                 <-------------------------------
     4)get password from request
     5)hash the password
     6)update user's password in database
+
+# Screenshot of this Project:- 
+
+## SignUp Page
+
+![Screenshot 2025-03-06 001057](https://github.com/user-attachments/assets/d8fe8fbe-bf51-4cd1-a8a8-868adfc86929)
+
+## Login Page (user not found)
+
+![Screenshot 2025-03-06 001450](https://github.com/user-attachments/assets/3792a357-6794-4469-8bca-6c31581a0198)
+
+## Home page
+
+![Screenshot 2025-03-06 001112](https://github.com/user-attachments/assets/0f00b4a3-2393-43af-9a82-487e9d8df8f5)
+
+## Forgot password Page
+
+![Screenshot 2025-03-06 001822](https://github.com/user-attachments/assets/4274e6e4-21fe-4d1d-902c-6a63de81de2b)
+
+## Gmail Reset link sent from GMAIL_USER
+
+![Screenshot 2025-03-06 002000](https://github.com/user-attachments/assets/f956a538-b9a7-4134-8ce3-158bc8f6d5b2)
+
+## Reset Password Page
+![Screenshot 2025-03-06 002021](https://github.com/user-attachments/assets/58762cad-a36b-4b1f-bb8f-c79edaad4dde)
+
